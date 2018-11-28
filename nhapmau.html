@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Javascript Vỡ Lòng</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h1>Mời bạn chọn nút tương ứng với màu cần tìm</h1>
+
+
+        <div id="content">
+        </div>
+        <input type="button" id="btn1" value="Màu đỏ">
+        <input type="button" id="btn2" value="Màu xanh">
+        <input type="button" id="btn3" value="Màu Tím">
+        <input type="button" id="btn4" value="Màu Hường">
+        <script language="javascript">
+            alert('XIN CHÀO MỌI NGƯỜI ĐẾN VỚI LỚP JAVASCRIPT VỠ LÒNG CỦA NGUYỆN');
+            var button1 = document.getElementById("btn1");
+            var button2 = document.getElementById("btn2");
+            var button3 = document.getElementById("btn3");
+            var button4 = document.getElementById("btn4");
+            var div = document.getElementById('content');
+            button1.onclick = function () {
+                div.style.background = "#ff0000"};
+            button2.onclick = function () {
+                div.style.background = "#0000ff"};
+            button3.onclick = function () {
+                div.style.background = "#ee82ee"};
+            button4.onclick = function () {
+                div.style.background = "#ff33cc"};
+        </script></br>
+        <button type="submit" id="btn01"><a href="huongdan.html">QUAY LẠI TRANG TRƯỚC</button>
+    </body>
+</html>

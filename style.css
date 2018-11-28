@@ -1,0 +1,124 @@
+h1{
+	color: red;
+    margin-left: 283px;
+    font-size: 40px;
+}
+#content{
+	padding: 20px;
+	background: #ddd;
+	color: white;
+	margin: 40px 0px;
+	margin-left: 415px;
+	margin-right: 420px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+#btn1{
+
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+	border: none;
+    border-radius: 51px;
+	margin-left: 413px;
+	margin-right: 15px;
+	background-color: #ff0000;
+	border-style: none;
+	border-color: #ffffff;
+	color: #ffffff;
+}
+#btn2{
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+	border: none;
+    border-radius: 51px;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: #0000ff;
+	border-style: none;
+	color: #ffffff;
+}
+#btn3{
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+	border: none;
+    border-radius: 51px;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: #ee82ee;
+	border-style: none;
+	color: #ffffff;
+}
+#btn4{
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+	border: none;
+    border-radius: 51px;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: #ff33cc;
+	border-style: none;
+	color: #ffffff;
+}
+#btn01{
+	border: none;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 572px;
+    margin-right: 400px;
+    width: 191px;
+    height: 104px;
+    font-size: 20px;
+    color: #ffffff;
+}
+#btn01 a{
+	font-size: 20px;
+    text-decoration: none;
+}
+#black1{
+	border-radius: 30px;
+    width: 136px;
+    height: 57px;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+}
+#black2{
+	border-radius: 30px;
+    width: 143px;
+    height: 57px;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+}
+#black3{
+	border-radius: 30px;
+    width: 301px;
+    height: 57px;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+}
+#black01{
+	text-decoration: none;
+}
+#black02{
+	text-decoration: none;
+}
+#black03{
+	text-decoration: none;
+}
+#help{
+	margin-left: 413px;
+}
+.help01{
+	margin-left: 500px;
+	font-family: arial;
+}
+body{
+	background-color: black;
+}
